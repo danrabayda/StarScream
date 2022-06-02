@@ -29,7 +29,9 @@ fi
 pip install --upgrade pip
 pip install tensorflow
 
-python3 -c "import tensorflow as tf; print('\n\nTensorFlow Installed! \navailable devices:\n',tf.config.list_physical_devices())"
+python3 -c "import tensorflow as tf; print('\n\nTensorFlow Installed!\ntest:\navailable devices:\n',tf.config.list_physical_devices())"
+
+pip install -r requirements.txt
 
 conda install jupyterlab
 
