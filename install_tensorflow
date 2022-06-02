@@ -1,0 +1,32 @@
+#!/bin/bash
+eval "$(conda shell.bash hook)"
+
+if conda --version
+ then
+  echo "Miniconda already installed"
+ else
+  echo "INSTALLING MINICONDA"
+  curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o ~/Downloads/Miniconda3-latest-Linux-x86_64.sh
+  bash ~/Downloads/Miniconda3-latest-Linux-x86_64.sh
+fi
+
+conda create --name tf python=3.9
+conda deactivate
+conda activate tf
+
+if nvidia-smi
+ then
+  echo "INSTALLING tf with GPU and CPU support"
+  conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
+  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/
+  #make that path extension permanent
+  mkdir -p $CONDA_PREFIX/etc/conda/activate.d
+  echo 'export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/' > $CONDA_PREFIX/etc/conda/activate.d/env_vars.sh
+ else
+  echo "INSTALLING tf with CPU only"
+fi
+
+pip install --upgrade pip
+pip install tensorflow
+
+python3 -c "import tensorflow as tf; print('\n\nTensorFlow Installed! \navailable devices:\n',tf.config.list_physical_devices())"
