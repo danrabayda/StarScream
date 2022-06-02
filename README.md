@@ -1,4 +1,4 @@
-# Airfield Noise Monitoring with Deep Acoustic Clustering
+# NoiseNet: Airfield Noise Monitoring with Deep Audio Clustering
 
 Continued exposure to aircraft noise is a persistent environmental issue with serious health concerns, including increased reliance on sleep aids and increased risk of heart disease, especially for communities living in close proximity to airfields ([Franssen 2004](https://oem.bmj.com/content/61/5/405); [Torija 2018](https://www.researchgate.net/profile/Antonio-Torija/publication/322328656_Aircraft_classification_for_efficient_modelling_of_environmental_noise_impact_of_aviation/links/5aaabc2845851517881b4434/Aircraft-classification-for-efficient-modelling-of-environmental-noise-impact-of-aviation.pdf)). To protect these communities, noise monitoring around airports remains a cruicial tool ([Asensio 2012](https://www.sciencedirect.com/science/article/abs/pii/S0003682X11002477)). 
 
