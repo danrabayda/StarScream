@@ -1,0 +1,26 @@
+numpy
+matplotlib
+pandas
+pandas-datareader
+scikit-learn
+scipy
+pillow
+h5py
+ipywidgets
+tk
+pydub
+pytube
+seaborn
+jupyterlab
+tensorflow-addons
+optuna
+#    - tqdm
+#requests
+#    - pyyaml
+#    - flask
+#    - boto3
+#    - pip
+#    - pip:
+#        - bayesian-optimization
+#        - gym
+# kaggle
