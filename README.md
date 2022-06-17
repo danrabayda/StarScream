@@ -48,7 +48,7 @@ Based on our y_true labels that come from the generator, we can say that v1 and 
 
 $ loss=max(||f(A)-f(P)||^2 - ||f(A)-f(N)||^2+a, 0) $
 
-We have two different types of distances now A-P ($||f(A)-f(P)||^2$) and A-N ($||f(A)-f(N)||^2$), What we want is to increase the distance from the anchor to the negatives while simultaneously decreasing the distance between the anchor and positives. To do this we want to make our loss very high if the A-P distance is large (anchor is far from positive matches) or if the A-N distance is very small (anchor is close to negatives), or conversely to make loss low when A-P distance is small or the A-N distance is large. That is all the base function $||f(A)-f(P)||^2 - ||f(A)-f(N)||^2$ is doing.
+We have two different types of distances now A-P ($||f(A)-f(P)||^2$) and A-N ($||f(A)-f(N)||^2$) What we want is to increase the distance from the anchor to the negatives while simultaneously decreasing the distance between the anchor and positives. To do this we want to make our loss very high if the A-P distance is large (anchor is far from positive matches) or if the A-N distance is very small (anchor is close to negatives), or conversely to make loss low when A-P distance is small or the A-N distance is large. That is all the base function $||f(A)-f(P)||^2 - ||f(A)-f(N)||^2$ is doing.
 
 Now we also have an added a margin that defines a 'hard' zone where we may have $||f(A)-f(P)||^2 < ||f(A)-f(N)||^2$ (the anchor is slightly closer to a negative than a positive). In Triplet semi-hard loss we take all these "close calls" within the margin a and we train based on those.
 
