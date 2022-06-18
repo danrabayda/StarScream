@@ -1,5 +1,6 @@
 #!/bin/bash
-eval "$(conda shell.bash hook)"
+sudo apt update
+sudo apt install curl
 
 if conda --version
  then
@@ -9,6 +10,10 @@ if conda --version
   curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o ~/Downloads/Miniconda3-latest-Linux-x86_64.sh
   bash ~/Downloads/Miniconda3-latest-Linux-x86_64.sh
 fi
+echo "setting auto_activate_base to false"
+conda config --set auto_activate_base false
+
+eval "$(conda shell.bash hook)"
 
 conda create --name tf python=3.9
 conda deactivate
@@ -23,7 +28,9 @@ if nvidia-smi
   mkdir -p $CONDA_PREFIX/etc/conda/activate.d
   echo 'export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/' > $CONDA_PREFIX/etc/conda/activate.d/env_vars.sh
  else
-  echo "INSTALLING tf with CPU only"
+  echo "***"
+  echo "INSTALLING tf with CPU only, if you want gpu support cancel now Ctrl-C and go select an nvidia video card driver"
+  echo "***"
 fi
 
 pip install --upgrade pip
