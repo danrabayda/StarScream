@@ -14,13 +14,4 @@ seaborn
 jupyterlab
 tensorflow-addons
 optuna
-#    - tqdm
-#requests
-#    - pyyaml
-#    - flask
-#    - boto3
-#    - pip
-#    - pip:
-#        - bayesian-optimization
-#        - gym
-# kaggle
+obspy
