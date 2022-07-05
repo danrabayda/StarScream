@@ -1,6 +1,6 @@
-# NoiseNet: Airfield Noise Monitoring with Deep Acoustic Clustering
+# Starscream: An Approach to Classifying Unlabeled Time-Series Audio Data
 
-An Encoding CNN that clusters time-series audio data.
+An encoding CNN is used to cluster segments of time-series audio and classify them either automatically or by human-in-the-machine interactive exploration.
 
 ### To Run:
 
