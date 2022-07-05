@@ -15,3 +15,5 @@ jupyterlab
 tensorflow-addons
 optuna
 obspy
+pydot
+ipympl
