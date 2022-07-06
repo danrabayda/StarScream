@@ -1,6 +1,6 @@
 # Project STARSCREAM: An Approach to Classifying Unlabeled Time-Series Audio Data
 
-An encoding CNN is used to cluster segments of time-series audio and classify them either automatically or by human-in-the-machine interactive exploration.
+An encoding convolutional neural network (CNN) is used to cluster segments of time-series audio and classify them either automatically or by human-in-the-machine interactive exploration.
 
 ### To Run:
 
