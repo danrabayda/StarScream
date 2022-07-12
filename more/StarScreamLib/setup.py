@@ -5,6 +5,7 @@ setup(
     version='0.1.0',
     description='A library for working with aircraft audios',
     author='Daniel Rabayda',
+    author_email='rabaydadp@gmail.com',
     license='MIT',
     url='https://github.com/danrabayda/StarScream/tree/main/more/StarScreamLib',
     install_requires=[
