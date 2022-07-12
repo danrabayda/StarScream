@@ -1,4 +1,11 @@
 #!/bin/bash
+
+###
+#    This file installs everything you need to run the ipynb. If you already have an environment to run it, just skip this and install the dependencies
+#    If you are on a new computer you may need to restart terminal a few times and keep rerunning this file. 
+#    Also it may need an executable mod with chmod +x install_tensorflow
+###
+
 sudo apt update
 sudo apt install curl
 
