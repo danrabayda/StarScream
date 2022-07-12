@@ -17,3 +17,4 @@ optuna
 obspy
 pydot
 ipympl
+StarScreamLib
