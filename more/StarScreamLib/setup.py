@@ -6,4 +6,15 @@ setup(
     description='A library for working with aircraft audios',
     author='Daniel Rabayda',
     license='MIT',
+    url='https://github.com/danrabayda/StarScream/tree/main/more/StarScreamLib',
+    install_requires=[
+        'pydub',
+        'ipywidgets',
+        'numpy',
+        'io',
+        'os',
+        'scipy',
+        'matplotlib',
+        'IPython',
+      ],
 )
