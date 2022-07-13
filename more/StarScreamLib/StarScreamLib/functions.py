@@ -7,8 +7,8 @@ from scipy import signal
 import matplotlib.pyplot as plt
 from pydub.playback import play
 import ipywidgets as widgets
-#from IPython.display import display, HTML
-#from IPython.display import Image
+from IPython.display import display, HTML
+from IPython.display import Image
 
 def flat(bl):
     return [v for l in bl for v in l] #flattens a list of lists into just a list
@@ -20,8 +20,8 @@ def normalize_seq(s):
     return s/(np.max(np.abs(s))+1e-8) #normalizes sequence s
 def xlr(lrb):
     return 0 if lrb=='L' else 1 if lrb=='R' else np.random.randint(2) #used to read the left or right audio parameter quickly
-#def meme(lnk,txt):
-#    display(HTML("""<a href={link}>{text}</a>""".format(link=lnk,text=txt)))
+def meme(lnk,txt):
+    display(HTML("""<a href={link}>{text}</a>""".format(link=lnk,text=txt)))
 def pydub_to_np(audio, r_smp=44100): #Converts pydub audio segment into np.float32 of shape [duration_in_seconds*sample_rate, channels], where each value is in range [-1.0, 1.0]. Returns audio_np_array
     audio.set_frame_rate(r_smp)
     return np.array(audio.get_array_of_samples(), dtype=np.float32).reshape((-1, audio.channels)) / (1 << (8 * audio.sample_width - 1))
