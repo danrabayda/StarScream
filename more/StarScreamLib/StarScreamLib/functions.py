@@ -52,14 +52,21 @@ def quick_plot(sp): #make a quick plot using default values
     plt.figure(figsize=(20, 5))
     plt.imshow(sp,interpolation='nearest',aspect='auto')
     plt.show()
-def quick_example(s,r_smp=44100): #does a quickplot and quicksound on sequence s
+def quick_example(s,r_smp=44100,export_filename='quick_example.wav'): #does a quickplot and quicksound on sequence s
     quick_plot(quick_spectrogram(s,r_smp))
     def play_sound(arg):
         sound=quick_sound(s,r_smp)
         play(sound)
+    def save_sound(arg):
+        sound=quick_sound(s,r_smp)
+        sound.export(export_filename,format='wav')
+        print("saved to "+export_filename)
     play_button=widgets.Button(description='Play Audio')
     play_button.on_click(play_sound)
     display(play_button)
+    save_button=widgets.Button(description='Save Audio')
+    save_button.on_click(save_sound)
+    display(save_button)
 def decimate(s,new_rate,old_rate=44100): #rough downsampling from one freq to a new lower one, I made this becasue scipy.signal.decimate only does integer downsampling, mine is general
     skp=old_rate/new_rate
     new_s,sp=[],0 
