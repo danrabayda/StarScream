@@ -2,7 +2,7 @@ import subprocess
 import pandas as pd
 import numpy as np
 import os
-from StarScreamLib.functions import vdir, vdirs
+from AudioStudio.functions import vdir, vdirs
 
 #I used pip3 to install youtube-dl and apt to install ffmpeg (I tried using apt for youtube-dl but that version came with a bunch of errors for some reason)
 #also make sure to put something in path below. I totally missed it my first run and it took a minute before I realized what was going wrong
