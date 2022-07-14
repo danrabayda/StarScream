@@ -2,19 +2,19 @@ import subprocess
 import pandas as pd
 import numpy as np
 import os
+from StarScreamLib.functions import vdir, vdirs
 
 #I used pip3 to install youtube-dl and apt to install ffmpeg (I tried using apt for youtube-dl but that version came with a bunch of errors for some reason)
 #also make sure to put something in path below. I totally missed it my first run and it took a minute before I realized what was going wrong
-def vdir(directory): #verify a directory exists, if not make it
-    if not os.path.exists(directory): os.mkdir(directory)
-    return directory
+
 # directory to store downloads in
 data_folder=vdir("data")
-downloads_folder=vdir(data_folder+"/downloads")
-path = vdir(downloads_folder+"/audio_set_mp4s")
+metadata_folder=vdirs(data_folder,"metadata")
+downloads_folder=vdirs(data_folder,"downloads")
+path = vdirs(downloads_folder,"audio_set_mp4s")
 
 # csv is created by the make_download_list notebook
-df = pd.read_csv('clean_download.csv', index_col='segment_id') 
+df = pd.read_csv(os.path.join(metadata_folder,'clean_download.csv'), index_col='segment_id') 
 for i in range(len(df)):
     raw_link = df.iloc[i,2] #I was troubleshooting and realized it was just the format of these they were an actual string that read "['http...']" and not a list of one so I just had to chop off the beginning and ends as seen below
     initial_link = raw_link[2:-2] #cuts off the first and last 2 of the string
