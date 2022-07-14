@@ -10,4 +10,4 @@ An encoding convolutional neural network (CNN) is used to cluster segments of ti
 4. Finally run StarScream*.ipynb for the network 
 
 
-There are several additional functions stored in our pip library StarScreamLib. The functions can be seen in more/StarScreamLib/StarScreamLib/functions.py
+There are several additional functions stored in our pip library AudioStudio. The functions can be seen in https://github.com/danrabayda/AudioStudio/tree/main/AudioStudio/functions.py
