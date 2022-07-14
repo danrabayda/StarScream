@@ -41,10 +41,13 @@ quick_plot(sp)
 make a quick plot using default values
 
 quick_example(s,r_smp=44100)
-does a quickplot and plauys a quicksound for sequence s
+does a quickplot for sequence s and shows a play and save button to play or save the audio of that sequence
 
 decimate(s,new_rate,old_rate=44100)
 rough downsampling from one freq to a new lower one, I made this becasue scipy.signal.decimate only does integer downsampling, mine is general
 
 vdir(directory)
 verify a directory exists, if not make it
+
+vdirs(directory1,directory2)
+just does vdir(os.path.join(directory1,directory2))
