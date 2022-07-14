@@ -1,0 +1,131 @@
+Type,MTOW [kg],MLW [tonnes],TOR [m],LR [m],ICAO category,FAA category,type-[],Num jet engines,num props,total engines,engine type
+Embraer Phenom 100,4800,4.43,975,741,Light,Small,Embraer Phenom 100,2,,2,jet
+de Havilland Hercules,7000,,,,Medium,Small,de Havilland Hercules,,,,
+Cessna Citation CJ4[26],7761,7.103,1039,896,Medium,Small,Cessna Citation CJ4,,,,
+Beechcraft 1900D,7765,7.605,1036,853,Medium,Small,Beechcraft 1900D,,,,
+Embraer Phenom 300[25],8150,7.65,956,677,Medium,Small,Embraer Phenom 300,,,,
+Pilatus PC-24[24],8300,7.665,893,724,Medium,Small,Pilatus PC-24,,,,
+Learjet 75[23],9752,8.709,1353,811,Medium,Small,Learjet 75,,,,
+BAe Jetstream 41,10890,10.57,1493,826,Medium,Small,BAe Jetstream 41,,2,2,propeller
+Embraer 120 Brasilia,11500,11.25,1560,1380,Medium,Small,Embraer 120 Brasilia,,,,
+Saab 340,13150,12.93,1300,1030,Medium,Small,Saab 340,,2,2,propeller
+ATR 42-500,18600,18.3,1165,1126,Medium,Small,ATR 42-500,,,,
+Embraer ERJ 145,22000,19.3,2270,1380,Medium,Large,Embraer ERJ 145,2,,2,jet
+ATR 72-600,22800,22.35,1333,914,Medium,Large,ATR 72-600,,2,2,propeller
+Saab 2000,22800,21.5,1300,,Medium,Large,Saab 2000,,,,
+Bombardier CRJ200,23000,21.319,1918,1479,Medium,Large,Bombardier CRJ-200,2,,2,jet
+Bombardier Q400,28000,28.01,1219,1295,Medium,Large,Bombardier Q400,,,,
+Vickers Viscount 800,30400,,,,Medium,Large,Vickers Viscount 800,,,,
+Dash-8-Q400,30500,,,,Medium,Large,Dash-8-Q400,,2,2,propeller
+RAAFFalcon7x,31700,,,,Medium,Large,RAAFFalcon7x,3,,3,jet
+Bombardier CRJ700,33000,30.39,1564,1478,Medium,Large,Bombardier CRJ-700,2,,2,jet
+Douglas DC-4,33000,,,,Medium,Large,Douglas DC-4,,2,2,propeller
+Embraer 170[22],36000,32.8,1644,1274,Medium,Large,Embraer 170,2,,2,jet
+Bombardier CRJ-900[21],36500,33.345,1778,1596,Medium,Large,Bombardier CRJ-900,2,,2,jet
+Embraer 175[20],37500,32.8,2244,1304,Medium,Large,Embraer 175,2,,2,jet
+CRJ1000EL,38900,,,,Medium,Large,CRJ-1000EL,2,,2,jet
+Handley Page Hermes,39000,,,,Medium,Large,Handley Page Hermes,,,,
+CRJ1000,41000,,,,Medium,Large,CRJ-1000,2,,2,jet
+Avro RJ-85,42000,36.74,,,Medium,Large,Avro RJ-85,,,,
+BAE-146,42100,,,,Medium,Large,BAE-146,4,,4,jet
+Douglas DC-6,44000,,,,Medium,Large,Douglas DC-6,,,,
+G6000,45100,,,,Medium,Large,G6000,2,,2,jet
+Caravelle III,46000,,,,Medium,Large,Caravelle III,,,,
+Fokker 100,46000,39.95,1621,1350,Medium,Large,Fokker 100,2,,2,jet
+RJ-100,46000,,,,Medium,Large,RJ-100,4,,4,jet
+Embraer 190[19],48000,43,2056,1323,Medium,Large,Embraer 190,2,,2,jet
+Douglas DC-6B,48500,,,,Medium,Large,Douglas DC-6B,,,,
+Douglas DC-6A,48600,,,,Medium,Large,Douglas DC-6A,,,,
+Embraer 195,50000,,,,Medium,Large,Embraer 195,2,,2,jet
+Boeing 717-200BGW,50000,46.265,1950,,Medium,Large,Boeing 717-200BGW,2,,2,jet
+de Havilland Comet 1,50000,,,,Medium,Large,de Havilland Comet 1,,,,
+de Havilland Comet 2,54000,,,,Medium,Large,de Havilland Comet 2,,,,
+Boeing 717-200HGW,55000,47.174,1950,,Medium,Large,Boeing 717-200HGW,2,,2,jet
+Douglas DC-7,55000,,,,Medium,Large,Douglas DC-7,,4,4,propeller
+Airbus A220-100,59000,50.8,1463,1356,Medium,Large,Airbus A220-100,2,,2,jet
+Airbus A318[18],59000,57.5,1375,1340,Medium,Large,Airbus A318,2,,2,jet
+Boeing 737-500,60000,49.9,1832,1360,Medium,Large,Boeing 737-500,2,,2,jet
+Boeing 737-300,63000,51.7,1939,1396,Medium,Large,Boeing 737-300,2,,2,jet
+Airbus A319[18],64000,62.5,1850,1470,Medium,Large,Airbus A319,2,,2,jet
+Airbus A220-300,65000,57.61,1890,1494,Medium,Large,Airbus A220-300,2,,2,jet
+Hawker Siddeley Trident 2E,65000,,,,Medium,Large,Hawker Siddeley Trident 2E,,,,
+Boeing 737-600,66000,54.66,1796,1340,Medium,Large,Boeing 737-600,2,,2,jet
+Boeing 377,67000,,,,Medium,Large,Boeing 377,,,,
+Airbus A320-100[18],68000,66,1955,1490,Medium,Large,Airbus A320-100,2,,2,jet
+Boeing 737-400,68000,54.9,2540,1540,Medium,Large,Boeing 737-400,2,,2,jet
+de Havilland Comet 3,68000,,,,Medium,Large,de Havilland Comet 3,,,,
+Boeing 737-700,70000,58.06,1921,1415,Medium,Large,Boeing 737-700,2,,2,jet
+C-130J,70300,,,,Medium,Large,C-130J,,4,4,propeller
+de Havilland Comet 4,70700,,,,Medium,Large,de Havilland Comet 4,,,,
+McDonnell-Douglas MD-90-30,71000,64.41,2165,1520,Medium,Large,McDonnell-Douglas MD-90-30,2,,2,jet
+Boeing 727-100[17],72500,62.4,,,Medium,Large,Boeing 727-100,3,,3,jet
+Boeing 727-100C[17],72500,62.4,,,Medium,Large,Boeing 727-100C,3,,3,jet
+McDonnell-Douglas MD-83,73000,63.28,,,Medium,Large,McDonnell-Douglas MD-83,2,,2,jet
+Boeing 727-200[17],78000,68.1,,,Medium,Large,Boeing 727-200,3,,3,jet
+Boeing 737-800,79000,65.32,2308,1634,Medium,Large,Boeing 737-800,2,,2,jet
+Airbus A321-100[18],83000,77.8,2200,1540,Medium,Large,Airbus A321-100,2,,2,jet
+Boeing 727-200 Advanced[17],84000,70.1,,,Medium,Large,Boeing 727-200 Advanced,3,,3,jet
+Boeing 737-900,85000,66.36,2500,1704,Medium,Large,Boeing 737-900,2,,2,jet
+Boeing 737-900ER,85000,71.35,2804,1829,Medium,Large,Boeing 737-900ER,2,,2,jet
+Convair 880,87500,,,,Medium,Large,Convair 880,4,,4,jet
+Boeing 720[16],104000,79.5,,,Medium,Large,Boeing 720,4,,4,jet
+Tupolev Tu-154M,104000,80,,,Medium,Large,Tupolev Tu-154M,,,,
+Tupolev Tu-204SM,104000,87.5,2250,,Medium,Large,Tupolev Tu-204SM,,,,
+Boeing 720B[16],106000,79.5,,,Medium,Large,Boeing 720B,,,,
+Boeing 757-200,116000,89.9,2347,1555,Medium,Large,Boeing 757-200,2,,2,jet
+Boeing 707-120B[15],117000,86.3,,,Medium,Large,Boeing 707-120B,4,,4,jet
+Boeing 757-300,124000,101.6,2550,1750,Medium,Large,Boeing 757-300,2,,2,jet
+Douglas DC-8-51,125000,,,,Medium,Large,Douglas DC-8-51,,,,
+Douglas DC-8-32,140000,,,,Heavy,Heavy,Douglas DC-8-32,,,,
+Airbus A400M,141000,122,980,770,Heavy,Heavy,Airbus A400M,,,,
+Airbus A310-200[14],142000,123,1860,1480,Heavy,Heavy,Airbus A310-200,2,,2,jet
+Douglas DC-8-61,147000,,,,Heavy,Heavy,Douglas DC-8-61,,,,
+Boeing 707-320B[15],151000,97.5,,,Heavy,Heavy,Boeing 707-320B,4,,4,jet
+Boeing 707-320C[15],151000,112.1,,,Heavy,Heavy,Boeing 707-320C,4,,4,jet
+Vickers VC10,152000,151.9,,,Heavy,Heavy,Vickers VC10,4,,4,jet
+Airbus A310-300[14],157000,124,2290,1490,Heavy,Heavy,Airbus A310-300,2,,2,jet
+Boeing 767-300,159000,136.078,2713,1676,Heavy,Heavy,Boeing 767-300,2,,2,jet
+Airbus A300-600[14],163000,138,2324,1536,Heavy,Heavy,Airbus A300-600,2,,2,jet
+Concorde,185000,111.1,3440,2220,Heavy,Heavy,Concorde,,,,
+Boeing 767-300ER,187000,136.08,2713,1676,Heavy,Heavy,Boeing 767-300ER,2,,2,jet
+IL-76,190000,,,,Heavy,Heavy,IL-76,4,,4,jet
+Airbus A300-600R[14],192000,140,2385,1555,Heavy,Heavy,Airbus A300-600R,2,,2,jet
+Boeing 767-400ER,204000,158.758,3414,,Heavy,Heavy,Boeing 767-400ER,2,,2,jet
+Ilyushin IL-86,208000,175,,,Heavy,Heavy,Ilyushin IL-86,4,,4,jet
+Lockheed L-1011-200,211400,,,,Heavy,Heavy,Lockheed L-1011-200,,,,
+Boeing 787-8[10],228000,172.365,3300,1695,Heavy,Heavy,Boeing 787-8,2,,2,jet
+Lockheed L-1011-500,231300,166.92,2636,,Heavy,Heavy,Lockheed L-1011-500,,,,
+KC-30,233000,,,,Heavy,Heavy,KC-30,2,,2,jet
+Airbus A330-300[12][13],242000,185,2500,1750,Heavy,Heavy,Airbus A330-300,2,,2,jet
+Airbus A330-200[12][13],242000,180,2220,1750,Heavy,Heavy,Airbus A330-200,2,,2,jet
+Ilyushin IL-96-300,250000,175,2600,1980,Heavy,Heavy,Ilyushin IL-96-300,,,,
+Airbus A330-900,251000,191,3100,,Heavy,Heavy,Airbus A330-900,2,,2,jet
+Airbus A340-200[8][11],253500,181,2990,,Heavy,Heavy,Airbus A340-200,4,,4,jet
+Boeing 787-9[10],254000,192.777,2900,,Heavy,Heavy,Boeing 787-9,2,,2,jet
+Boeing 787-10[10],254000,201.849,,,Heavy,Heavy,Boeing 787-10,2,,2,jet
+McDonnell Douglas DC-10,256280,183,2990,1890,Heavy,Heavy,McDonnell Douglas DC-10,3,,3,jet
+C-17,265300,,,,Heavy,Heavy,C-17,4,,4,jet
+Airbus A350-900,270000,175,2670,1860,Heavy,Heavy,Airbus A350-900,2,,2,jet
+Ilyushin Il-96M,270000,195.04,3115,2118,Heavy,Heavy,Ilyushin Il-96M,,,,
+McDonnell Douglas MD-11,273300,185,2990,1890,Heavy,Heavy,McDonnell Douglas MD-11,3,,3,jet
+Airbus A340-300[8][9],276700,190,3000,1926,Heavy,Heavy,Airbus A340-300,4,,4,jet
+Boeing 777-200ER,297550,213,3380,1550,Heavy,Heavy,Boeing 777-200ER,2,,2,jet
+Boeing 777-300,299370,237.683,3380,,Heavy,Heavy,Boeing 777-300,2,,2,jet
+Airbus A350-1000,308000,233.5,,,Heavy,Heavy,Airbus A350-1000,2,,2,jet
+Boeing 747-100[7],340200,265.3,,,Heavy,Heavy,Boeing 747-100,4,,4,jet
+Boeing 777-200LR,347450,223.168,3000,,Heavy,Heavy,Boeing 777-200LR,2,,2,jet
+Boeing 777F,347800,260.816,2830,,Heavy,Heavy,Boeing B777F,2,,2,jet
+Boeing 777-300ER,351800,251.29,3100,,Heavy,Heavy,Boeing 777-300ER,2,,2,jet
+Airbus A340-600[8],367400,256,3100,2100,Heavy,Heavy,Airbus A340-600,4,,4,jet
+Airbus A340-500[8],371950,240,3050,2010,Heavy,Heavy,Airbus A340-500,4,,4,jet
+Boeing 747-200[7],377840,285.7,3338,2109,Heavy,Heavy,Boeing 747-200,4,,4,jet
+Boeing 747-300[7],377840,260.32,3222,1905,Heavy,Heavy,Boeing 747-300,4,,4,jet
+Lockheed C-5 Galaxy[4][5][6],381000,288.417,2530,1494,Heavy,Heavy,Lockheed C-5 Galaxy,,,,
+Boeing 747-400,396900,295.742,3018,2179,Heavy,Heavy,Boeing 747-400,4,,4,jet
+Antonov An-124-100M,405600,330,2520,900,Heavy,Heavy,Antonov An-124-100M,4,,4,jet
+Boeing 747-400ER,412770,295.742,3090,,Heavy,Heavy,Boeing 747-400ER,4,,4,jet
+Boeing 747-8,443613,306.175,3100,,Heavy,Heavy,Boeing 747-8,4,,4,jet
+Boeing 747-8F,447700,346.091,3100,1800,Heavy,Heavy,Boeing 747-8F,4,,4,jet
+Airbus A380-800[1][2][3],575000,394,3100,1930,Heavy,Super,Airbus A380-800,4,,4,jet
+Scaled Composites Model 351 Stratolaunch,589670,,3660,,Heavy,Super,Scaled Composites Model 351 Stratolaunch,,,,
+Antonov An-225,640000,591.7,3500,,Heavy,Super,Antonov An-225,6,,6,jet

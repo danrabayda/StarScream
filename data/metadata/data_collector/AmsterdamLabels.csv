@@ -1,0 +1,143 @@
+Timestamp,Raw Times(s),"Actual (measured, s)",Time Diff,Time (m),Flight Code,Aircraft,Flight Time
+1655148738,0,,,0, DL258 , A330-300 Boston BOS - Amsterdam AMS , Flight time: 6:15h
+1655148784,46,,46,0.767, KL672 , A330-200 Montreal YUL - Amsterdam AMS , Flight time: 6:00h
+1655148828,90,92,44,1.5, KL730 , A330-200 Sint Maarten SXM - Amsterdam AMS , Flight time: 8:15h
+1655148873,135,,45,2.25, CI73 , A350-900 Taipei TPE - Amsterdam AMS , Flight time: 14:25h
+1655148913,175,,40,2.917, DLS56 , A330-300 Salt Lake City SLC - Amsterdam AMS , Flight time: 9:05h
+1655148970,232,,57,3.867, DL72 , A350-900 Atlanta ATL - Amsterdam AMS , Flight time: 7:35h
+1655149024,286,,54,4.767, KL1250 , E195-E2 Nice NCE - Amsterdam AMS , Flight time: 1:40h
+1655149072,334,,48,5.567, KL678 , A330-200 Calgary YYC - Amsterdam AMS , Flight time: 8:15h
+1655149119,381,,47,6.35, TK6309 , A310-300F Istanbul ISL - Amsterdam AMS , Flight time: 3:05h
+1655149137,399,,18,6.65, AF1236 , E190LR Strasbourg SXB - Amsterdam AMS , Flight time: 1:00h
+1655149183,445,447,46,7.417, KL1412 , E190 Lyon LYS - Amsterdam AMS , Flight time: 1:20h
+1655149235,497,,52,8.283, KL1312 , E190 Bordeaux BOD - Amsterdam AMS , Flight time: 1:35h
+1655149276,538,,41,8.967, UA7O , B787-10 Newark EWR - Amsterdam AMS , Flight time: 6:25h
+1655149300,562,,24,9.367, DL134 , A350-900 Detroit DTW - Amsterdam AMS , Flight time: 6:50h
+1655149348,610,,48,10.167, KL1540 , E175 Leeds LBA - Amsterdam AMS , Flight time: 0:50h
+1655149386,648,,38,10.8, EK9757 , B777-300ER Nairobi NBO - Amsterdam AMS , Flight time: 8:25h
+1655149419,681,,33,11.35, KL736 , B777-300ER Willemstad CUR - Amsterdam AMS , Flight time: 8:55h
+1655149470,732,,51,12.2, UA909 , B787-8 Chicago ORD - Amsterdam AMS , Flight time: 7:15h
+1655149535,797,,65,13.283, KL690 , B787-9 Cancun CUN - Amsterdam AMS , Flight time: 8:30h
+1655149582,844,,47,14.067, AF1692 , E190 Nantes NTE - Amsterdam AMS , Flight time: 1:20h
+1655149633,895,,51,14.917, DL142 , A330-900 Seattle SEA - Amsterdam AMS , Flight time: 8:50h
+1655149703,965,,70,16.083, U21041 , A320-200 Basel BSL - Amsterdam AMS , Flight time: 1:05h
+1655149756,1018,1020,53,16.967, MU7771 , A350-900 Shanghai PVG - Amsterdam AMS , Flight time: 11:50h
+1655149821,1083,,65,18.05,AF1240, A321-200 Paris CDG - Amsterdam AMS , Flight time: 0:55h
+1655149872,1134,,51,18.9, DL46 , A330-300 New York JFK - Amsterdam AMS , Flight time: 6:35h
+1655149944,1206,,72,20.1, KL662 , B777-200ER Houston IAH - Amsterdam AMS , Flight time: 8:30h
+1655150000,1262,,56,21.033, KL1502 , E175 Valencia VLC - Amsterdam AMS , Flight time: 2:20h
+1655150041,1303,,41,21.717, E1602 , A320-200 Dublin DUB - Amsterdam AMS , Flight time: 1:10h
+1655150093,1355,,52,22.583, AF1806 , CRJ-1000EL Marseille MRS - Amsterdam AMS , Flight time: 1:40h
+1655150150,1412,,57,23.533, $Q7957 , B747-400F(SCD) Los Angeles LAX - Amsterdam AMS , Flight time: 9:55h
+1655150223,1485,1486,73,24.75, BA428 , A320-200 London LHR - Amsterdam AMS , Flight time: 0:45h
+1655150269,1531,,46,25.517, KL602 , B787-10 Los Angeles LAX - Amsterdam AMS , Flight time: 9:20h
+1655150296,1558,,27,25.967, KL1684 , E175 Bilbao BIO - Amsterdam AMS , Flight time: 1:55h
+1655150336,1598,,40,26.633, CA1023 , B777F Chengdu CTU - Amsterdam AMS , Flight time: 10:15h
+1655150359,1621,,23,27.017, U26921 , A320neo Edinburgh EDI - Amsterdam AMS , Flight time: 1:05h
+1655150419,1681,,60,28.017, AC7222 , A330-300 Toronto YYZ - Amsterdam AMS , Flight time: 6:40h
+1655150457,1719,,38,28.65, KL606 , B777-200ER San Francisco SFO - Amsterdam AMS , Flight time: 9:30h
+1655150521,1783,,64,29.717, VY8300 , A319-100 Barcelona BCN - Amsterdam AMS , Flight time: 2:05h
+1655150566,1828,,45,30.467, CZ453 , B777F Shanghai PVG - Amsterdam AMS , Flight time: 11:25h
+1655150620,1882,,54,31.367, LO265 , E190 Warsaw WAW - Amsterdam AMS , Flight time: 1:45h
+1655150688,1950,,68,32.5, SK2551 , CRJ-900LR Copenhagen CPH - Amsterdam AMS , Flight time: 1:05h
+1655150731,1993,,43,33.217,AY1301, E190LR Helsinki HEL - Amsterdam AMS , Flight time: 2:10h
+1655150778,2040,,47,34, KL592 , B777-300ER Johannesburg JNB - Amsterdam AMS , Flight time: 10:35h
+1655150822,2084,,44,34.733, KL872 , B777-200ER Delhi DEL - Amsterdam AMS , Flight time: 9:55h
+1655150870,2132,,48,35.533, KL682 , A330-300 Vancouver YVR - Amsterdam AMS , Flight time: 8:55h
+1655150921,2183,,51,36.383, SK821 , A319-100 Oslo OSL - Amsterdam AMS , Flight time: 1:30h
+1655150965,2227,2229,44,37.117, JU360 , A319-100 Belgrade BEG - Amsterdam AMS , Flight time: 2:05h
+1655151023,2285,,58,38.083, OB199 , B737-800 Bucharest OTP - Amsterdam AMS , Flight time: 2:35h
+1655151071,2333,,48,38.883,644, B777-300ER msterdam AMS , Flight time:
+1655151131,2393,,60,39.883, UX1091 , B737-800 Madrid MAD - Amsterdam AMS , Flight time: 2:25h
+1655151158,2420,,27,40.333, LH988 , A320-200 Frankfurt FRA - Amsterdam AMS , Flight time: 0:50h
+1655151207,2469,,49,41.15, AA220 , B787-9 Dallas DFW - Amsterdam AMS , Flight time: 8:35h
+1655151271,2533,,64,42.217, KM394 , A320neo Luqa MLA - Amsterdam AMS , Flight time: 2:45h
+1655151328,2590,,57,43.167, TK1951 , B787-9 Istanbul IST - Amsterdam AMS , Flight time: 2:55h
+1655151376,2638,,48,43.967, OR365 , B787-8 t=Yolal-Vic-M=1@)) ey -Vaa-ie-1cel-laaW- ioe alltel alaid,gal-re sso) a)
+1655151433,2695,,57,44.917, KL741 , B787-9 (or-Tat-le-lal- RO K@iew Va a-ie-1cel-laaW- Malle] aim d,gal-rae (0) a)
+1655151484,2746,,51,45.767, LX724 , A330-300 Zurich ZRH - Amsterdam AMS , Flight time: 1:10h
+1655151544,2806,,60,46.767, DL74 , A330-300 Atlanta ATL - Amsterdam AMS , Flight time: 7:50h
+1655151597,2859,,53,47.65, OU450 , Dash-8-Q400 Zagreb ZAG - Amsterdam AMS , Flight time: 2:05h
+1655151652,2914,,55,48.567, RO361 , A318-100 Bucharest OTP - Amsterdam AMS , Flight time: 2:35h
+1655151710,2972,,58,49.533, BA430 , A320-200 London LHR - Amsterdam AMS , Flight time: 0:45h
+1655151745,3007,,35,50.117,CA1033, B747-400F Shanghai PVG - Amsterdam AMS , Flight time: 11:30h
+1655151827,3089,,82,51.483,XC5261, B737-800 Konya KYA - Amsterdam AMS , Flight time: 3:50h
+1655151881,3143,,54,52.383, KL758 , B777-300ER Panama City PTY - Amsterdam AMS , Flight time: 9:40h
+1655151934,3196,,53,53.267, EK9914 , B777F Aguadilla BQN - Amsterdam AMS , Flight time: 8:00h
+1655151991,3253,,57,54.217,AZ120, A319-100 Milan LIN - Amsterdam AMS , Flight time: 1:30h
+1655152043,3305,3307,52,55.083, KL734 , B777-200ER Willemstad CUR - Amsterdam AMS , Flight time: 8:55h
+1655152089,3351,,46,55.85, KL719 , B787-9 Liberia LIR - Amsterdam AMS , Flight time: 9:45h
+1655152139,3401,,50,56.683, D06730 , A300-600F London LHR - Amsterdam AMS , Flight time: 0:45h
+1655152211,3473,,72,57.883, KL1778 , B737-700 Hamburg HAM - Amsterdam AMS , Flight time: 0:40h
+1655152262,3524,,51,58.733, QT4049 , A330-200F Miami MIA - Amsterdam AMS , Flight time: 8:00h L f s : *
+1655152313,3575,,51,59.583, A3624 , A321-200 Athens ATH - Amsterdam AMS , Flight time: 3:00h
+1655152351,3613,,38,60.217, SK557 , CRJ-900ER Stockholm ARN - Amsterdam AMS , Flight time: 1:40h
+1655152408,3670,,57,61.167, KL1822 , B737-800 Berlin BER - Amsterdam AMS , Flight time: 1:00h
+1655152454,3716,,46,61.933, KL792 , B777-300ER is Sao Paulo-GRU.-Amsterdam-AMS , Flight times 11:15h
+1655152508,3770,,54,62.833, KL656 , B787-9 Minneapolis MSP - Amsterdam AMS , Flight time: 7:15h
+1655152565,3827,,57,63.783,VY8366, A320neo Malaga AGP - Amsterdam AMS , Flight time: 3:00h
+1655152615,3877,,50,64.617, CD695 , B737-800 Antalya AYT - Amsterdam AMS , Flight time: 3:35h
+1655152662,3924,,47,65.4, KL1154 , E190 Gothenburg GOT - Amsterdam AMS , Flight time: 1:10h
+1655152693,3955,,31,65.917, 1B3060 , A320neo Madrid MAD - Amsterdam AMS , Flight time: 2:20h
+1655152731,3993,,38,66.55, ~KL706 , B777-200ER E Rio de Janeiro GIG - Amsterdam AMS, Flight time: 10: 50h
+1655152785,4047,,54,67.45, HV5582 , B737-800 Nice NCE - Amsterdam AMS , Flight time: 1:45h
+1655152891,4153,,106,69.217,XC1961, B737-800 Antalya AYT - Amsterdam AMS , Flight time: 3:45h
+1655152922,4184,4185,31,69.733, KL988 , E190 London LCY - Amsterdam AMS , Flight time: 0:40h
+1655152963,4225,,41,70.417, PS101 , B737-800 4 z: 7. Kyiv KBP - Amsterdam AMS , Flight time: 2:40h
+1655153004,4266,,41,71.1,PC1251, B737-800 Istanbul SAW- Amsterdam AMS , Flight time: 3:15h
+1655153052,4314,,48,71.9, KL1598 , B737-800 Rome FCO - Amsterdam AMS , Flight time: 1:55h
+1655153095,4357,,43,72.617, OR384 , B787-8 Willemstad CUR - Amsterdam AMS , Flight time: 8:40h
+1655153150,4412,,55,73.533, KL1856 , E175 Dusseldorf DUS - Amsterdam AMS , Flight time: 0:35h
+1655153195,4457,,45,74.283, KL622 , B777-300ER Atlanta ATL - Amsterdam AMS , Flight time: 7:25h
+1655153263,4525,,68,75.417, EK147 , A380-800 Dubai DXB - Amsterdam AMS , Flight time: 6:45h
+1655153370,4632,,107,77.2,HV5132, B737-800 Barcelona BCN - Amsterdam AMS , Flight time: 2:05h
+1655153411,4673,,41,77.883, RU623 , B747-8F Krasnoyarsk KJA - Amsterdam AMS , Flight time: 6:50h
+1655153490,4752,,79,79.2, EY77 , B787-10 Abu Dhabi AUH - Amsterdam AMS , Flight time: 6:35h
+1655153543,4805,,53,80.083,VY8310, A320neo - Barcelona BCN - Amsterdam AMS , Flight time: 2:05h
+1655153601,4863,,58,81.05, HV6332 , B737-800 Valencia VLC - Amsterdam AMS , Flight time: 2:20h
+1655153641,4903,,40,81.717, FISO00 , B767-300ER Reykjavik KEF - Amsterdam AMS , Flight time: 2:40h
+1655153705,4967,4970,64,82.783, AZ108 , A319-100 Rome FCO - Amsterdam AMS , Flight time: 2:00h
+1655153755,5017,,50,83.617, KLIO74 , B737-800 Manchester MAN - Amsterdam AMS , Flight time: 0:45h
+1655153793,5055,,38,84.25, 5Y8153 , B747-400F Almaty ALA - Amsterdam AMS , Flight time: 6:35h
+1655153862,5124,,69,85.4,UC1506, B767-300F(ER) Miami MIA - Amsterdam AMS , Flight time: 8:15h
+1655153914,5176,,52,86.267, LH2304 , CRJ-900LR Munich MUC - Amsterdam AMS , Flight time: 1:15h
+1655153962,5224,,48,87.067, AF1640 , A319-100 Paris CDG - Amsterdam AMS , Flight time: 0:45h
+1655154019,5281,,57,88.017, KL755 , B777-300ER Guayaquil GYE - Amsterdam AMS , Flight time: 10:55h
+1655154070,5332,,51,88.867, HV6730 , B737-800 Seville SVQ - Amsterdam AMS , Flight time: 2:50h
+1655154111,5373,,41,89.55, QR273 , B777-300ER Doha DOH - Amsterdam AMS , Flight time: 6:20h
+1655154167,5429,,56,90.483,FR3102, B737-800 Dublin DUB - Amsterdam AMS , Flight time: 1:05h
+1655154217,5479,,50,91.317, KL1024 , B737-700 London LHR - Amsterdam AMS , Flight time: 0:40h
+1655154245,5507,,28,91.783, RJ151 , A320-200 Amman AMM - Amsterdam AMS , Flight time: 4:35h
+1655154295,5557,,50,92.617, HV6116 , B737-800 Malaga AGP - Amsterdam AMS , Flight time: 2:50h
+1655154332,5594,,37,93.233, BA2760 , A320-200 London LHR - Amsterdam AMS , Flight time: 0:40h
+1655154370,5632,,38,93.867,MS757, B737-800 Cairo CAI - Amsterdam AMS , Flight time: 4:25h
+1655154415,5677,,45,94.617, OR602 , B737 MAX 8 Gran Canaria LPA - Amsterdam AMS , Flight time: 4:30h
+1655154456,5718,,41,95.3, TK7768 , B737-800 Istanbul SAW - Amsterdam AMS , Flight time: 3:15h
+1655154498,5760,5763,42,96, MP8342 , B747-400F Nairobi NBO - Amsterdam AMS , Flight time: 8:10h
+1655154598,5860,,100,97.667, MP7342 , B747-400F Miami MIA - Amsterdam AMS , Flight.time: 7:25h
+1655154650,5912,,52,98.533,LX728, E190-E2 Zurich ZRH - Amsterdam AMS,
+1655154704,5966,,54,99.433, CK205 , B777F Shanghai PVG - Amsterdam AMS , Flight time: 11:15h
+1655154759,6021,,55,100.35, EK9915 , B777F Dubai DXB - Amsterdam AMS , Flight time: 6:45h
+1655154810,6072,,51,101.2, MF811 , B787-9 Xiamen XMN - Amsterdam AMS , Flight time: 12:00h
+1655154869,6131,,59,102.183, KL1906 , E190 Belgrade BEG - Amsterdam AMS , Flight time: 2:10h
+1655154915,6177,,46,102.95, KL686 , B787-9 Mexico City MEX - Amsterdam AMS , Flight time: 9:40h
+1655154974,6236,6238,59,103.933, KL862 , B777-200ER Tokyo NRT - Amsterdam AMS , Flight time: 11:35h
+1655155030,6292,,56,104.867, KL744 , B777-300ER Lima’ LIM=Amsterdam AMS , Flight time: 11:40h
+1655155080,6342,,50,105.7, CZ2575 , B777F Chongqihg:GKG - Amsterdam AMS , Flight time: 10:30h
+1655155134,6396,,54,106.6, KL868 , B777-200ER Osaka KIX-=Amsterdam AMS , Flight time: 11:55h
+1655155185,6447,,51,107.45, KL1304 , E195-E2 Toulouse TLS - Amsterdam AMS , Flight time: 1:40h
+1655155223,6485,,38,108.083, KL1282 , E190 Edinburgh EDI - Amsterdam AMS , Flight time: 1:00h
+1655155262,6524,,39,108.733, KL1742 , E175 Luxemburg LUX - Amsterdam AMS , Flight time: 0:50h
+1655155298,6560,,36,109.333, AF1824 , CRJ-1000 Marseille MRS - Amsterdam AMS , Flight time: 1:35h
+1655155334,6596,,36,109.933,ZT144, A330-300(P2F) London STN - Amsterdam AMS , Flight time: 0:40h
+1655155392,6654,,58,110.9, SU2694 , A320-200 Moscow SVO - Amsterdam AMS , Flight time: 3:15h
+1655155454,6716,,62,111.933, QR8203 , B777F Doha DOH – Amsterdam AMS,
+1655155524,6786,,70,113.1, AM25 , B787-8 Mexico City MEX=Armsterdam AMS , Flight time: 10:10h
+1655155580,6842,,56,114.033, EY913 , B777F Abu Dhabi AUH - Amsterdam AMS , Flight time: 6:40h
+1655155636,6898,6900,56,114.967, HV52 , B737-800 Alicante ALC - Amsterdam AMS , Flight time: 2:30h
+1655155677,6939,,41,115.65, TK1953 , A330-300 Istanbul IST = Amsterdam AMS , Flight time: 3:00h
+1655155751,7013,,74,116.883, XC3695 , B737-800 Izmir ADB - Amsterdam AMS , Flight time: 3:15h
+1655155793,7055,,42,117.583, TP672 , A330-900neo Lisbon LIS - Amsterdam AMS , Flight time: 2:40h
+1655155837,7099,,44,118.317, 7L207 , B747-400F Baku GYD - Amsterdam AMS , Flight time: 4:50h
+1655155867,7129,7132,30,118.817, JAFOSS8F , B787-8 Brussels BRU - Amsterdam AMS , Flight time: 0:30h
+1655155908,7170,7172,41,119.5, KE925 , A330-300 Seoul ICN - Amsterdam AMS , Flight time: 11:50h
